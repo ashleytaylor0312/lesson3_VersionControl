@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+Februrary 2, 2018
 
 ## Student Name:  
-(First and Last Name)
+Ashley Taylor
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we looked at general definition of version control. We examined a type of version control, which was Git, and its process for recording information.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Version Control
+2. How Git is used
+3. Commands to change Git repository
 
